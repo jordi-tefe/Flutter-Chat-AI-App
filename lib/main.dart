@@ -7,6 +7,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:jordi_gpt/MyHomePage.dart';
 // import 'MyHomePage.dart';
 
+
 Future<void> main() async {
 
   await dotenv.load(fileName: '.env');
